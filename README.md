@@ -80,32 +80,17 @@ The final findings should be interpreted from the actual tables and plots genera
 | ------------------------------ | ------------------------------------------- |
 | `Task5_Titanic_EDA.ipynb`      | Complete Python analysis and visualizations |
 | `Task5_Titanic_EDA_Report.pdf` | Summary report with selected graphs         |
-| `screenshots/`                 | Optional screenshots of analysis results    |
 
-## How to Run
 
-1. Open [Google Colab](https://colab.research.google.com/).
-2. Download or open `Task5_Titanic_EDA.ipynb`.
-3. Run the notebook cells in order.
-4. Review the statistical outputs and visualizations.
-5. Generate the PDF report using the report-generation cell.
-
-The analysis can be run online without installing Python locally.
 
 ## Deliverables
 
 * Google Colab notebook (`.ipynb`)
 * PDF report (`.pdf`)
-* Statistical summaries and visualizations
-* Observations and conclusion
+
 
 ## Conclusion
 
 This project demonstrates how Exploratory Data Analysis can be used to understand a real-world dataset through statistical summaries and visualizations. It provides practical experience in data cleaning checks, descriptive statistics, data visualization, and identifying patterns in passenger survival data.
 
----
-
-**Project Type:** Data Analysis / Exploratory Data Analysis
-**Task:** Task 5
-**Dataset:** Titanic Passenger Dataset
 
